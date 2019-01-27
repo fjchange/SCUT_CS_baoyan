@@ -22,9 +22,11 @@
 
  1. [保研basic knowledges](https://github.com/fjchange/SCUT_CS_baoyan/blob/master/1.%20%E4%BF%9D%E7%A0%94basic%20knowledge.md)
  
- (下面待更新...)
  
- 2. 接收函陶瓷经验分享
+ 2. [接收函陶瓷经验分享](https://github.com/fjchange/SCUT_CS_baoyan/blob/master/2.%20%E6%8E%A5%E6%94%B6%E5%87%BD%E9%99%B6%E7%93%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.md)
+ 
+  (下面待更新...)
+
  
  3. 夏令营经验分享
  
