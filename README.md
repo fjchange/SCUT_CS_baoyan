@@ -27,10 +27,10 @@
  
  2. [接收函陶瓷经验分享](https://github.com/fjchange/SCUT_CS_baoyan/blob/master/2.%20%E6%8E%A5%E6%94%B6%E5%87%BD%E9%99%B6%E7%93%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.md)
  
+  3. [导师和方向选择](https://github.com/fjchange/SCUT_CS_baoyan/blob/master/3.%20%E5%AF%BC%E5%B8%88%E5%92%8C%E6%96%B9%E5%90%91%E9%80%89%E6%8B%A9.md)
+
   (下面待更新...)
 
- 
- 3. 导师和方向选择
  
  4. 夏令营经验分享
  
